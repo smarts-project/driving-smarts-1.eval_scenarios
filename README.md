@@ -1,5 +1,5 @@
 # driving-smarts-1.eval_scenarios
-The evaluation scenarios that were used for "NeurIPS 2022 Driving SMARTS Competition".
+The evaluation scenarios that were used for ["NeurIPS 2022 Driving SMARTS Competition"](https://smarts-project.github.io/archive/2022_nips_driving_smarts/).
 
 ## Scenario build
 These scenarios are related to the [SMARTS traffic simulation](https://github.com/huawei-noah/SMARTS). The scenarios should be built with the following command:
